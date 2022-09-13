@@ -1,0 +1,12 @@
+C:\Users\Ventura\source\repos\Lab03\Lab03\bin\Debug\Lab03.exe.config
+C:\Users\Ventura\source\repos\Lab03\Lab03\bin\Debug\Lab03.exe
+C:\Users\Ventura\source\repos\Lab03\Lab03\bin\Debug\Lab03.pdb
+C:\Users\Ventura\source\repos\Lab03\Lab03\obj\Debug\Lab03.csproj.AssemblyReference.cache
+C:\Users\Ventura\source\repos\Lab03\Lab03\obj\Debug\Lab03.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ventura\source\repos\Lab03\Lab03\obj\Debug\Lab03.Form1.resources
+C:\Users\Ventura\source\repos\Lab03\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+C:\Users\Ventura\source\repos\Lab03\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\Users\Ventura\source\repos\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\Ventura\source\repos\Lab03\Lab03\obj\Debug\Lab03.exe
+C:\Users\Ventura\source\repos\Lab03\Lab03\obj\Debug\Lab03.pdb
+C:\Users\Ventura\source\repos\Lab03\Lab03\obj\Debug\Lab03.Persona.resources
